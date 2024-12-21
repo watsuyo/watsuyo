@@ -2,9 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkdin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tsuyoshi-hirosawa-6b9142176/)](https://www.linkedin.com/in/tsuyoshi-hirosawa-6b9142176/)
 [![Devto Badge](https://img.shields.io/badge/-@watsuyo-000000?style=flat&labelColor=000000&logo=dev.to&link=https://medium.com/@watsuyo)](https://medium.com/@watsuyo)
-[![Website Badge](https://img.shields.io/badge/-watsuyo.dev-55555?style=flat&logo=next.js&logoColor=ffff&link=https://watsuyo.dev)](https://watsuyo.dev)
-[![Zenn Badge](https://img.shields.io/badge/-Zenn-47CCCC?style=flat&logo=zenn&logoColor=white&link=https://Zenn)](https://watsuyo.dev)
-[![Twitter Badge](https://img.shields.io/badge/-@watsuyo_2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/watsuyo_2)](https://twitter.com/intent/follow?screen_name=watsuyo_2)
+[![Website Badge](https://img.shields.io/badge/-watsuyo.site-55555?style=flat&logo=next.js&logoColor=ffff&link=https://watsuyo.site)](https://watsuyo.site)
+[![Zenn Badge](https://img.shields.io/badge/-Zenn-47CCCC?style=flat&logo=zenn&logoColor=white&link=https://Zenn)]([https://zenn.dev](https://zenn.dev/watsuyo_2))
+[![X Badge](https://img.shields.io/badge/-@watsuyo_2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://X.com/watsuyo_2)](https://X.com/intent/follow?screen_name=watsuyo_2)
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=watsuyo&count_private=true&show_icons=true&theme=dark">](https://metrics.lecoq.io/watsuyo?template=classic)
 
